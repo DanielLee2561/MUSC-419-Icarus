@@ -2,7 +2,7 @@
 
 **Video**
 
-- [MUSC 419 Icarus](https://www.youtube.com/watch?v=9tc4xGNcVZM)
+- [MUSC 419 Interactive Performance System - Icarus](https://www.youtube.com/watch?v=9tc4xGNcVZM)
 
 **Group**
 
