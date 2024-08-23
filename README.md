@@ -1,4 +1,4 @@
-# MUSC-419-Icarus
+# MUSC 419 Interactive Performance System - Icarus
 
 **Video**
 
